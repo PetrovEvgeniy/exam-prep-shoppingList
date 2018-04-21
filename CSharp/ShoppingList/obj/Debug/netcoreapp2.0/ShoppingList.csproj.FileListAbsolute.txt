@@ -1,0 +1,11 @@
+D:\ShoppingList\CSharp\ShoppingList\bin\Debug\netcoreapp2.0\ShoppingList.deps.json
+D:\ShoppingList\CSharp\ShoppingList\bin\Debug\netcoreapp2.0\ShoppingList.runtimeconfig.json
+D:\ShoppingList\CSharp\ShoppingList\bin\Debug\netcoreapp2.0\ShoppingList.runtimeconfig.dev.json
+D:\ShoppingList\CSharp\ShoppingList\bin\Debug\netcoreapp2.0\ShoppingList.dll
+D:\ShoppingList\CSharp\ShoppingList\bin\Debug\netcoreapp2.0\ShoppingList.pdb
+D:\ShoppingList\CSharp\ShoppingList\obj\Debug\netcoreapp2.0\ShoppingList.csprojResolveAssemblyReference.cache
+D:\ShoppingList\CSharp\ShoppingList\obj\Debug\netcoreapp2.0\ShoppingList.csproj.CoreCompileInputs.cache
+D:\ShoppingList\CSharp\ShoppingList\obj\Debug\netcoreapp2.0\ShoppingList.AssemblyInfoInputs.cache
+D:\ShoppingList\CSharp\ShoppingList\obj\Debug\netcoreapp2.0\ShoppingList.AssemblyInfo.cs
+D:\ShoppingList\CSharp\ShoppingList\obj\Debug\netcoreapp2.0\ShoppingList.dll
+D:\ShoppingList\CSharp\ShoppingList\obj\Debug\netcoreapp2.0\ShoppingList.pdb
